@@ -1,6 +1,6 @@
 # MN-Nice-Ride
 
-Inspired by all the publicly available rideshare analysis done in New York, Chicago, Seattle, etc., and in need of an ongoing project to placate an insomniac's mind, these notebooks represent one individual's peek into the behavior of a city firmly committed to the bicycle.
+Inspired by all the publicly available rideshare analysis done in New York, Chicago, Seattle, etc., and in need of an ongoing project to placate an insomniac's mind, these notebooks represent one individual's peek into the behavior of a city deeply committed to the bicycle.
 
 Data sources: 
 1. Primary ride data downloaded from public releases by the nonprofit, Nice Ride Minnesota
