@@ -1,4 +1,4 @@
-# MN-Nice-Ride
+# MN Nice Ride
 
 Inspired by all the publicly available rideshare analysis done in New York, Chicago, Seattle, etc., and in need of an ongoing project to placate an insomniac's mind, these notebooks represent one individual's peek into the behavior of a city deeply committed to the bicycle.
 
