@@ -4,9 +4,9 @@ Inspired by all the publicly available rideshare analysis done in New York, Chic
 
 
 Data sources:
-1. Primary ride data downloaded from public releases by the nonprofit, Nice Ride Minnesota
-2. More detailed station data came from a direct request of Nice Ride Minnesota 
-3. Much of the weather data came from The NOAA's National Centers for Environmental Information (NCEI). Additional weather data related dew point and humidity came from the Weather Underground website.
+1. Primary ride data downloaded from public releases by the nonprofit, Nice Ride Minnesota.
+2. More detailed station data came from a direct request of Nice Ride Minnesota.
+3. Much of the weather data came from The NOAA's National Centers for Environmental Information (NCEI). Additional weather data related to dew point and humidity came from the Weather Underground website.
 
 Weapons of choice:
 1. Python 
